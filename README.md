@@ -28,7 +28,7 @@ It’s built for **game developers**, with a focus on **performance tuning, clea
 
 ### 📸 Demo Preview
 
-> Coming soon: Link to walkthrough video & screenshots
+> https://gamecode-enhancer.streamlit.app/
 
 ---
 
